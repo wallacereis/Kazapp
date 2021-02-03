@@ -1,1 +1,1 @@
-Este é o repositório do Aplicativo Kazapp
+Este é o repositório do GitHub para o Aplicativo Kazapp
